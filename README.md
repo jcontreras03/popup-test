@@ -13,7 +13,7 @@ You don't need the popup to "pop up", it can just be there.</p>
 
 <p>Jaime</p>
 
-
+![Alt text](final.png?raw=true "Final Product")
 <br/>
 <br/>
 <br/>

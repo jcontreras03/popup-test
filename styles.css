@@ -1,0 +1,48 @@
+
+
+#image img {
+  position: absolute;
+  z-index: 2;
+  display: block;
+  margin-left: 1015px;
+  margin-top: 100px;
+  height: 50px;
+  height: 50px;
+}
+
+.allgrids {
+  position: relative;
+  z-index: -2;
+}
+
+#txt {
+  position: relative;
+  z-index: 2;
+  text-align:center;
+  font-size: 50px;
+}
+
+#textpop {
+  position: absolute;
+  display:block;
+  color: black;
+  background-color: lightgrey;
+  padding:200px;
+  height: 560px;
+  margin-left: 175px;
+  margin-top: 90px;
+  width: 900px;
+  opacity: 0.6;
+}
+.popup{
+  z-index: -1;
+  position: absolute;
+  background-color: darkslategrey;
+  height:200%;
+  width:100%;
+  opacity: 0.5;
+}
+
+h1 {
+
+}
